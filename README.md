@@ -12,8 +12,12 @@
 
 ![Join up](./image/join.png)
 
-- 상품문의 등 게시판 템플릿 및 코드구현(HTML/CSS)
+- 상품문의 등 게시판 템플릿 및 컨트롤러 코드구현(HTML/CSS)
 
 ![QnA Page](./image/qna.png)
 
-![Controller Code](./image/
+![Controller Code](./image/code.png)
+
+- 글쓰기와 파일업로드
+
+![Write](./image/writing.png)
