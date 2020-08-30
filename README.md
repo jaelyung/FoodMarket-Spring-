@@ -1,6 +1,6 @@
 [![Project title](./image/20200830_205816.png)](https://github.com/jaelyung/Northwind-Spring-)
 
--(개발환경 - Spring Framework, Oracle 11g, Tomcat 8.5, Ajax, JSP, JAVA, HTML/CSS, Java Script)
+- 개발환경 - Spring Framework, JAVA, Oracle 11g, Tomcat 8.5, Ajax, JSP, HTML/CSS, Java Script
 
 # Service
 
@@ -14,4 +14,6 @@
 
 - 상품문의 등 게시판 템플릿 및 코드구현(HTML/CSS)
 
+![QnA Page](./image/qna.png)
 
+![Controller Code](./image/
