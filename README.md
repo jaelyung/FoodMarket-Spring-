@@ -1,5 +1,17 @@
-# FoodMarket
+[![Project title](./image/20200830_205816.png)](https://github.com/jaelyung/Northwind-Spring-)
 
-Spring Security를 사용하여 로그인 기능 구현, CSRF 토큰을 사용하여 크로스 사이트 요청위조를 방지한 쇼핑몰
+-(개발환경 - Spring Framework, Oracle 11g, Tomcat 8.5, Ajax, JSP, JAVA, HTML/CSS, Java Script)
 
-(개발환경 - Spring Framework, Oracle 11g, Tomcat 8.5, Ajax, JSP, JAVA, HTML/CSS, Java Script)
+# Service
+
+- 메인페이지 Header&Footer 템플릿 구현(HTML/CSS)
+
+![Main Page](./image/main.png)
+
+- 회원가입 아이디 중복확인 (Ajax)
+
+![Join up](./image/join.png)
+
+- 상품문의 등 게시판 템플릿 및 코드구현(HTML/CSS)
+
+
