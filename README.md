@@ -1,6 +1,5 @@
 [![Project title](./image/20200830_205816.png)](http://3.35.91.106:8080/main/main)
 
-- AWS = http://3.35.91.106:8080/main/main
 
 - 개발환경 - Spring Framework, JAVA, Oracle 11g, Tomcat 8.5, Ajax, JSP, HTML/CSS, Java Script
 
